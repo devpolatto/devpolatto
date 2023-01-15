@@ -1,4 +1,4 @@
-<img align='right' src=".github/Developer-vector.svg" style='height: 400px; width:: 430px'>
+<img align='right' src=".github/Developer-vector.svg" style='height: 300px; width:: 330px'>
 
 ## Hi there, I'm Angelo Polato👋
 
