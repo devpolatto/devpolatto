@@ -1,4 +1,4 @@
-<img align='right' src=".github/Developer-vector.svg">
+<img align='right' src=".github/Developer-vector.svg" style='height: 400px; width:: 430px'>
 ### Hi there 👋
 
 <!--
