@@ -1,5 +1,11 @@
 <img align='right' src=".github/Developer-vector.svg" style='height: 400px; width:: 430px'>
-### Hi there 👋
+
+### Hi there, I'm Angelo Polato👋
+
+#### FrontEnd Developer | Networks Opeations | DevOps
+
+---
+
 
 <!--
 **devpolatto/devpolatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
