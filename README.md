@@ -1,8 +1,8 @@
 <img align='right' src=".github/Developer-vector.svg" style='height: 400px; width:: 430px'>
 
-### Hi there, I'm Angelo Polato👋
+## Hi there, I'm Angelo Polato👋
 
-#### FrontEnd Developer | Networks Opeations | DevOps
+### FrontEnd Developer | Networks Opeations | DevOps
 
 ---
 
