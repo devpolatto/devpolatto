@@ -1,3 +1,4 @@
+<img align='right' src=".github/Developer-vector.svg">
 ### Hi there 👋
 
 <!--
