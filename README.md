@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Angelo Polato👋
 
-### FrontEnd Developer | Networks Opeations | DevOps
+### Front-End Developer | Networks Opeations | DevOps
 
 ---
 
@@ -34,15 +34,13 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD" /></code>
   	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" alt="Elasticsearch" title="Elasticsearch" /></code>
-</div>
-
-
-#### Other
-
-<div align="left">
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx" /></code>
 </div>
 
+#### Badge
+<div align="left">
+	<a href="https://www.credly.com/badges/2e67c3b9-5f17-4d3d-8fdc-a57b418eccf0/linked_in?t=revq83">
+		<code><img height="50" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Figma" title="Figma" /></code>
+	</a>
+</div>
