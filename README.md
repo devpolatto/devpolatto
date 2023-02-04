@@ -1,4 +1,4 @@
-<img align='right' src=".github/Hero.png" style='height: 200px; width: 100%'>
+<img align='right' src=".github/Model-002.png" style='height: 200px; width: 100%'>
 
 ## Hi there👋
 
