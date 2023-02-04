@@ -1,9 +1,6 @@
-<img align='right' src=".github/Developer-vector.svg" style='height: 300px; width:: 330px'>
+<img align='right' src=".github/Hero.png" style='height: 300px; width:: 330px'>
 
 ## Hi there, I'm Angelo Polato👋
-
-### Front-End Developer | Networks Opeations | DevOps
-
 ---
 
 ### 💼 Technical Skills
