@@ -1,6 +1,6 @@
-<img align='right' src=".github/Hero.png" style='height: 300px; width:: 330px'>
+<img align='right' src=".github/Hero.png" style='height: 200px; width: 100%'>
 
-## Hi there, I'm Angelo Polato👋
+## Hi there👋
 ---
 
 ### 💼 Technical Skills
