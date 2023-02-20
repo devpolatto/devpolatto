@@ -47,3 +47,10 @@
 
 
 <!-- https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05 -->
+
+<!-- <div align="center">
+	
+	[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/angelo-polatto-04121998/)
+	[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Angelo_Polatto)
+	
+</div> -->
