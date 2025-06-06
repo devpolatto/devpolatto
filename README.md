@@ -18,7 +18,7 @@ I'm DevOps and Cloud Architecture professional with expertise in infrastructure,
 
 #### DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,terraform,docker,kubernetes,elasticsearch,githubactions,grafana,prometheus,kafka,linux,nginx,mongodb,postgres&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,terraform,docker,kubernetes,elasticsearch,githubactions,grafana,prometheus,kafka,linux,nginx,mongodb,postgres&perline=8)](https://skillicons.dev)
 
 #### Badge
 <div align="left">
