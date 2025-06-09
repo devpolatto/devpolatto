@@ -28,7 +28,7 @@ I'm DevOps and Cloud Architecture professional with expertise in infrastructure,
 	<a href="https://www.credly.com/badges/8a55281a-8a7b-4d2b-a82b-006887228125/linked_in?t=sp7hus">
 		<code><img height="50" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Figma" title="Figma" /></code>
 	</a>
-	<a href="https://www.credly.com/earner/earned/badge/87725afe-4858-4a56-9225-927ad98cdc93">
+	<a href="https://www.credly.com/badges/87725afe-4858-4a56-9225-927ad98cdc93">
 		<code><img height="50" src="https://images.credly.com/size/340x340/images/36054dc5-13a6-47df-9cd1-5fac074c0bb4/image.png" alt="Figma" title="Figma" /></code>
 	</a>
 </div>
