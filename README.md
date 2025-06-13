@@ -2,6 +2,9 @@
 
 ## Hi there👋
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/angelo-polatto-04121998/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Angelo_Polatto)
+
 I'm Angelo Polatto, but you can just call me Polatto.
 
 I'm DevOps and Cloud Architecture professional with expertise in infrastructure, automation, and software development, specializing in AWS. Proficient in Infrastructure as Code (IaC) using AWS CDK with TypeScript, CI/CD pipelines, and automation with Python and Bash.
@@ -35,8 +38,7 @@ I'm DevOps and Cloud Architecture professional with expertise in infrastructure,
 
 <br/>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/angelo-polatto-04121998/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Angelo_Polatto)
+
 
 
 <!-- https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05 -->
