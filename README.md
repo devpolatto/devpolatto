@@ -20,7 +20,7 @@ I'm DevOps and Cloud Architecture professional with expertise in infrastructure,
 		<img height="80" src="https://images.credly.com/size/340x340/images/36054dc5-13a6-47df-9cd1-5fac074c0bb4/image.png" alt="Fortinet FortiGate 7.0 Administrator"/>
 	</a>
 	<a href="https://www.credly.com/badges/a7fc4bc2-79ce-4126-989b-7c4717b0bef9/linked_in?t=sybdas">
-		<img height="80" src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="Fortinet FortiGate 7.0 Administrator"/>
+		<img height="80" src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="Terraform"/>
 	</a>
 </div>
 
