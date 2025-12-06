@@ -28,12 +28,7 @@ I'm DevOps and Cloud Architecture professional with expertise in infrastructure,
 
 #### DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,elasticsearch,kafka,githubactions,grafana,prometheus,kafka,linux,nginx,mongodb,postgres&perline=7)](https://skillicons.dev)
-
-#### Lenguages
-
-
-[![My Skills](https://skillicons.dev/icons?i=bash,py,js,ts,go&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,elasticsearch,kafka,githubactions,grafana,prometheus,kafka,linux,nginx,mongodb,postgres,bash,py,js,ts,go&perline=8)](https://skillicons.dev)
 
 <div align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpolatto&layout=compact"/>
