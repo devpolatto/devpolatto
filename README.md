@@ -28,7 +28,7 @@ I'm DevOps and Cloud Architecture professional with expertise in infrastructure,
 
 #### DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,elasticsearch,kafka,githubactions,grafana,prometheus,kafka,linux,nginx,mongodb,postgres,bash,py,js,ts,go&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,elasticsearch,kafka,githubactions,grafana,prometheus,linux,nginx,mongodb,postgres,bash,py,js,ts,go&perline=10)](https://skillicons.dev)
 
 <div align="left">
 	<a href="https://devpolatto.github.io/DevSecOps-Blog/">
